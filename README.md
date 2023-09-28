@@ -19,6 +19,7 @@ Perlin noise in p5.js is the first function I landed on while researching. It is
 
 Further to create my pixel artwork, I would need noise function in addition to pixel color picker that we learnt in class. When playing with the noise map scale, I'll be able to get different detail of the noise that I want. 
 ![Screenshot from J Alex Carney's video](images/noise.png)
+
 For creating the collage pieces, we could use mask function to draw a shape with image inside. 
 ![Screenshot from Jeff Thompson's video](images/mask.png)
 Also learning from Jeff Thompson's video, I could extract portion of an image and making pieces out of it with translation.
