@@ -18,3 +18,5 @@ Perlin noise in p5.js is the first function I landed on while researching. It is
 
 For creating the collage pieces, we could use mask function to draw a shape with image inside.
 ![Screenshot from Jeff Thompson's video](images/mask.png)
+Also learning from Jeff Thompson's video, I could extract portion of an image and making pieces out of it with translation.
+![Screenshot from Jeff Thompson's video](images/portion.png)
